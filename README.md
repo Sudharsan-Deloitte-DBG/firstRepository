@@ -1,0 +1,2 @@
+### First README
+This document consists of the description of the learnings done so far on Go. This repository can be used as a learning guide for Golang for anyone who comes after. This repo is the prime example of Thanos' "let me do it myself" meme. It was because when I was trying to join a Go learning community, there was none. So , I said, let's create one myself and if others can benifit from it, so be it. This might be a wonderful step in the right direction for me.
