@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Sudharsan-Deloitte-DBG/yuji"
+	"github.com/Sudharsan-Deloitte-DBG/yuji/yuji"
 )
 
 func main() {
