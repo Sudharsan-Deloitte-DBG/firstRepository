@@ -11,4 +11,5 @@ func main() {
 	fmt.Println(yuji.ChainBlackFlash())
 	fmt.Println(gojo.GojoChainsBlackFlashes())
 	fmt.Println(gojo.HollowPurple())
+	fmt.Println(gojo.SchoolMahoraga())
 }
