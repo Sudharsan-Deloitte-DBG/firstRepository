@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(yuji.ChainBlackFlash(8))
+	fmt.Println(yuji.ChainBlackFlash())
 }
