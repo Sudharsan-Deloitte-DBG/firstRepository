@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	//prevExercise()
 	//NestedLoops()
@@ -9,5 +7,11 @@ func main() {
 	//iterateMaps()
 	//idioms()
 
-	fmt.Println(true && true)
+	//fmt.Println(false || false)
+
+	//appendToASlice()
+
+	//slicingASlice()
+
+	makeSlice()
 }
