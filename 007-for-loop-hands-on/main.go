@@ -4,7 +4,7 @@ func main() {
 	//prevExercise()
 	//NestedLoops()
 	//iterateSlices()
-	//iterateMaps()
+	iterateMaps()
 	//idioms()
 
 	//fmt.Println(false || false)
@@ -13,5 +13,5 @@ func main() {
 
 	//slicingASlice()
 
-	makeSlice()
+	//makeSlice()
 }
