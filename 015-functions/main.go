@@ -13,6 +13,25 @@ func main() {
 
 	p1.Speak()
 
+	//below example is an anonymous function that returns a string
+	str := func(s string) string {
+		return s
+	}("Hello")
+
+	//we could also assign a func to a variable as below and use that variable identifier to invloke/call the func by providing necessary arguments if any
+
+	fexp := func(a int) int {
+		return a * a
+	}
+
+	i := fexp(10)
+	fmt.Println(i)
+
+	fmt.Println(str)
+
+	y := returnsFunc(10)
+	fmt.Println(y())
+
 }
 
 func variadic(i ...int) int {
@@ -21,4 +40,11 @@ func variadic(i ...int) int {
 		n += v
 	}
 	return n
+}
+
+//this is a function that returns a function. When calling the returnsFunc, the returned function can be assigned to a variable and that variable can be used to invoke the returned function from returnsFunc
+func returnsFunc(a int) func() int {
+	return func() int {
+		return a
+	}
 }

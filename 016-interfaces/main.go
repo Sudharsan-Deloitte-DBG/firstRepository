@@ -37,8 +37,8 @@ func main() {
 	sj := jinwoo{}
 	ss := suhoo{}
 
-	sj.ShadowExtract()
-	ss.ShadowExtract()
+	//sj.ShadowExtract()
+	//ss.ShadowExtract()
 
 	sm := []shadowMonarch{sj, ss}
 
