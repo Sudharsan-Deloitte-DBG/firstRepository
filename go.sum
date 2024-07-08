@@ -2,3 +2,5 @@ github.com/Sudharsan-Deloitte-DBG/sukuna v0.0.0-20240512122054-03ca96eeffcf h1:e
 github.com/Sudharsan-Deloitte-DBG/sukuna v0.0.0-20240512122054-03ca96eeffcf/go.mod h1:9LuqiuLIseF6rjhtU2YqUSHOnn6L7S3kqVC/M4IJvM4=
 github.com/Sudharsan-Deloitte-DBG/yuji v1.2.0 h1:YsAYrJwDPyCc8FLa3kJktrWBZ8+Fy/fb6KENnHOclUA=
 github.com/Sudharsan-Deloitte-DBG/yuji v1.2.0/go.mod h1:l530fgTWVimNHxBmm7bsaYs6niMiRNENCZUY8PU0s1o=
+golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8 h1:yixxcjnhBmY0nkL253HFVIm0JsFHwrHdT3Yh6szTnfY=
+golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8/go.mod h1:jj3sYF3dwk5D+ghuXyeI3r5MFf+NT2An6/9dOA95KSI=
